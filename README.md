@@ -20,9 +20,9 @@
 ---
 
 ### 🌐 Reach Me:
-<a href="https://www.linkedin.com/in/shivam-kumar-b67984348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/framefusion_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:shivamraj0k0r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abhinav-saini-642078338/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
@@ -49,14 +49,11 @@
 ### 📌 Popular Repositories:
 
 <p>
-  <a href="https://github.com/Anhsirk17/coder-of-delhi-1st-project-using-python">
+  <a href="https://github.com/Anhsirk17/centralDaoToken-core-sage">
     <img src="https://img.shields.io/badge/Repo%201-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Anhsirk17/central-Dao-Token">
+  <a href="https://github.com/Anhsirk17/Youtube-Video-Downloader-">
     <img src="https://img.shields.io/badge/Repo%202-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Anhsirk17/alram-clock">
-    <img src="https://img.shields.io/badge/Repo%203-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -64,7 +61,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
-- 🚀 **Pushed** [**numpy-basics**](https://github.com/Anhsirk17/numpy-basics)
+
 <!--END_SECTION:activity-->
 
 ---
